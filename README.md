@@ -1,10 +1,9 @@
 # Guía para trabajar en el repositorio
 
-Buenas dias/tardes/noches compañeros. El que les habla aca es Juan F Paz, este va a ser nuestro repositorio remoto donde vamos a organizarnos cada uno una o varias tareas, para poder realizar la pagina web de estilo "Landing Page" entre todos.
+Buenas dias/tardes/noches compañeros. Este va a ser nuestro repositorio remoto donde vamos a organizarnos cada uno una o varias tareas, para poder realizar la pagina web de estilo "Landing Page" entre todos.
 
 A continuacion voy a dejarles una guia de como deben clonar el repo, como trabajar en su repo local y como deben hacer el push a nuestro repositorio remoto. La parte de como trabajar en el repo local queda en ustedes, pero estaria bueno que sigan los pasos para evitar conflictos en sus repositorios.
 
-Con cariño, Juan F Paz.-
 
 ## Clonar el repositorio
 
